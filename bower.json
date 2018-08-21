@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-4",
+  "description": "Start project on Bootstrap 4 - itchief.ru",
+  "main": "itchief.ru",
+  "authors": [
+    "1"
+  ],
+  "license": "UNLICENSED",
+  "keywords": [
+    "123"
+  ],
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0"
+  },
+  "devDependencies": {
+    "jquery": "^3.3.1"
+  }
+}
